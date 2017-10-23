@@ -4,3 +4,4 @@ git has a mutable index called stage.
 git git tracks changes of files.
 git change.
 git change.
+git change 3.
